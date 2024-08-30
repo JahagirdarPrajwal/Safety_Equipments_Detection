@@ -6,6 +6,10 @@ yo.py
 # C extensions
 *.so
 
+.jpg
+.png
+.jpeg
+
 # Distribution / packaging
 .Python
 build/
