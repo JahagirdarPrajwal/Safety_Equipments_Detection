@@ -9,6 +9,7 @@ yo.py
 *.jpg
 *.png
 *.jpeg
+*.txt
 
 # Distribution / packaging
 .Python
