@@ -6,9 +6,9 @@ yo.py
 # C extensions
 *.so
 
-.jpg
-.png
-.jpeg
+*.jpg
+*.png
+*.jpeg
 
 # Distribution / packaging
 .Python
