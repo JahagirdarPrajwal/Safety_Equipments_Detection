@@ -1,0 +1,10 @@
+
+# train & val & test sets
+path: D:\syook\Syook-Project\hard_hat_workers # dataset root dir
+train: D:\syook\Syook-Project\hard_hat_workers\train\images # train images (relative to 'path'), 5269 images
+val: D:\syook\Syook-Project\hard_hat_workers\test\images # val images (relative to 'path'), 1766 images
+test:  # test images (optional), no test images by default in this dataset
+
+# classe information
+nc: 3 # number of classes
+names: ["head", "helmet", "person"] # class names
