@@ -1,1 +1,1 @@
-# Syook-Project
+# Safety Equipment Detection
